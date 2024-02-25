@@ -1,0 +1,14 @@
+.web-photo-editor-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1204px;
+  height: 1392px;
+  object-fit: cover;
+}
+.web-photo-editor-1-parent {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 1392px;
+}
